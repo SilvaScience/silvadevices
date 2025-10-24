@@ -1,0 +1,5 @@
+Ouvrir le fichier RoundHolder1.FCStd
+Cliquer sur "Body"
+Dans le tableau de gauche, section washer, selectionner "Big" ou "Small" et taper enter
+Les dimentions des washer (Big ou Small) sont modifiable via la "spreadsheet"
+Les trous pour les vis doivent etre fait a l'atelier
