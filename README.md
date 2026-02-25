@@ -1,6 +1,6 @@
-CameraSpectro : interface entre le spectro princeton instrument et la caméra. (table Pharos)
+CameraSpectro : interface entre le spectro princeton instrument sp-2156 et la caméra photon alizé. (table Pharos)
 
-Curtain : Remplace le corps principale des crochets pour les rideaux (plus large et plus robuste).
+Curtain : Remplace le corps principale (slider) des crochets pour les rideaux (plus large et plus robuste). Magnet s'installe sur l'aimant des portes. (pour qu'elles soient moins difficile a ouvrir).
 
 LedGlasses : boitier ovale pour les leds indicatrices de "shutter open" installé sur les rideaux. (qui rapelle de porter des lunettes)
 
