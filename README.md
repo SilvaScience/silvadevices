@@ -1,4 +1,4 @@
-CameraSpectro : interface entre le spectro princeton instrument et la caméra.
+CameraSpectro : interface entre le spectro princeton instrument et la caméra. (table Pharos)
 
 Curtain : Remplace le corps principale des crochets pour les rideaux (plus large et plus robuste).
 
