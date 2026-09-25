@@ -9,3 +9,5 @@ MotorArduino : boitier pour le Arduino et 3 autres modeles pour les "step motors
 PostHolder : holder pour les bins rouge, noir, blanc : 2 modeles - 1 pour la case avant et 1 autre pour les cases derrieres.
 
 ThinFilmHolder : Fabriqué pour Mareny (carbide)
+
+Cuvette holder; A holder for Hellma 105.252-QS cuvettes that fits on 1/2'' posts using a 8-32 socket head screw. The cuvette is held in place by a 8-32 nut slided into a slot and a set screw.
